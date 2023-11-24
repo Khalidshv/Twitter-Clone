@@ -186,7 +186,29 @@ header section .profile_post_follow_bx .profile_bx .profile_card .blue_tick_pc{
     left: 10px;
     width: 15px;
 }
-header section .profile_post_follow_bx .profile_bx .profile_card .blue_tick_pc{
-    
+header section .profile_post_follow_bx .profile_bx .profile_card .profile_i{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
 
+}
+header section .profile_post_follow_bx .profile_bx .profile_card h5{
+    font-weight: 600;
+    margin-top: 10px;
+}
+header section .profile_post_follow_bx .profile_bx .profile_card h6{
+    color: rgb(0, 0, 0, .3);
+    font-size: 10px;
+    padding: 2px 0px;
+}
+header section .profile_post_follow_bx .profile_bx .profile_card address{
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+}
+header section .profile_post_follow_bx .profile_bx .profile_card address a{
+    text-decoration: none;
+    color: #000;
+    font-size: 11px;
+    font-style: normal;
 }
