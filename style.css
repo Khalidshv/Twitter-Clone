@@ -246,4 +246,29 @@ header section .profile_post_follow_bx .profile_bx .profile_card p,h4{
 header section .profile_post_follow_bx .profile_bx .profile_card h4{
     font-size: 14px;
     padding: 3px 0px 7px 0px;
+    color: rgb(0, 0, 0, 0.4);
+}
+header section .profile_post_follow_bx .profile_bx .activity_bx{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+header section .profile_post_follow_bx .profile_bx .activity_card_bx{
+    width: 115px;
+    height: 90px;
+    border: 2px solid rgb(213, 218, 222, 0.5);
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: .3s linear;
+    cursor: pointer;
+
 }
