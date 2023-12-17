@@ -395,5 +395,31 @@ header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post
     align-items: center;
 }
 header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .retweet i{ 
-    font-size: ;
+    font-size: 10px;
+    margin-right: 5px;   
+}
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .user_name_time{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .user_name_time h5{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .user_name_time h5 p{ 
+    font-size: 12px;
+    color: rgb(0, 0, 0, 0.3);
+    margin-left: 10px;
+}
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .user_name_time h6{
+    color: #000;
+    font-weight: 600;
+    font-size: 11px;
+
+ 
 }
