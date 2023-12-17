@@ -420,6 +420,24 @@ header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post
     color: #000;
     font-weight: 600;
     font-size: 11px;
-
- 
 }
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .user_name_time h6 i{  
+    color: #000;
+    font-size: 12px;
+    margin-right: 3px;  
+}
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content h3{
+    font-size: 11px;
+    font-weight: 500;
+    word-break: break-all;
+    margin-top: 10px;
+}
+header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .retweet_content_bx{
+    width: 100%;
+    height: auto;
+    padding: 5px 10px;
+    border: 2px solid rgb(0, 0, 0, 0.1);
+    
+
+}
+ 
