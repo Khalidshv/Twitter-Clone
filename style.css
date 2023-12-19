@@ -437,6 +437,8 @@ header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post
     height: auto;
     padding: 5px 10px;
     border: 2px solid rgb(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 10px;
     
 
 }
